@@ -1,0 +1,29 @@
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left:10px ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+footer{
+
+    background-color: #3b5998 ;
+    width: 100%;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    }
+img {
+    width: 25px;
+    position: absolute;
+    right: 2%;
+    top: 13%;
+}
+footer .rights {
+    text-align: center;
+    
+}
